@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "name": "Sambit Kumar Nanda",
+      "username": "Sambit20",
+      "email": "sambitn20@gmail.com",
+      "phone": "7978312808",
+      "emial": "sambitn20@gmail.com",
+      "id": "WrHxRFa"
+    },
+    {
+      "name": "Prajnasa Mishra",
+      "username": "pugu@33",
+      "email": "admin@gmail.com",
+      "phone": "9090507166",
+      "id": "5zoqqP0"
+    }
+  ]
+}
